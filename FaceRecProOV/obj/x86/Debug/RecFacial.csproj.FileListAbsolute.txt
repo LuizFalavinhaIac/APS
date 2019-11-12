@@ -1,0 +1,13 @@
+C:\Users\luizi\source\repos\FaceRecProOV\obj\x86\Debug\RecFacial.csprojAssemblyReference.cache
+C:\Users\luizi\source\repos\FaceRecProOV\obj\x86\Debug\RecFacial.csproj.GenerateResource.cache
+C:\Users\luizi\source\repos\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\luizi\source\repos\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\luizi\source\repos\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\luizi\source\repos\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\luizi\source\repos\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\luizi\source\repos\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\luizi\source\repos\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\luizi\source\repos\FaceRecProOV\obj\x86\Debug\RecFacial.csproj.CopyComplete
+C:\Users\luizi\source\repos\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\luizi\source\repos\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\luizi\source\repos\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FormPrincipal.resources
